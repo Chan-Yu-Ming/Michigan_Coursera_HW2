@@ -1,0 +1,47 @@
+body{
+    font-family:Candara;
+    font-size: 17px;
+}
+
+header{
+    background-color: #947155;
+}
+
+nav{
+    background-color: #33281e;
+    text-align:center;
+}
+
+main{
+    background-color: #d3cac2;
+    font-size: 16px;
+}
+
+footer{
+    background-color: rgb(168, 219, 219);
+}
+
+li {
+    display:inline-block;
+    width:151px;
+    padding:10px;
+    margin-right:1 px;
+    color:rgb(199, 185, 185);
+    border:3px solid rgb(223, 148, 148);
+    text-align:center;
+}
+
+li a{
+    color:rgb(199, 185, 185);
+}
+
+h1{
+    text-align: center;
+    font-family: arial;
+    color:rgb(215, 238, 238)
+}
+
+p{
+    line-height: 1.5em;
+    text-align: justify;
+}
